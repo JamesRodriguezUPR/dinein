@@ -8,6 +8,7 @@
 [EJS](https://ejs.co/#install)
 You can also put serverside variables(be it single variables or arrays) thanks to templatting.
 
+`npm intall --save-dev nodemon` to easy restart on change. INside package.json write a "script" attribute that has an object that has "devStart" property : "nodemon server.js" and to run: npm run devStart
 
 #### Node
 #### Express
